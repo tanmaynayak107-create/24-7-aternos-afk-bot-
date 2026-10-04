@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "PeaceMC-I8ID.aternos.me",
+    "port": 54565,
     "version": "1.20.1",
     "try-creative": false
   },
